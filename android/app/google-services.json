@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "990763336957",
+    "project_id": "fir-auth-e6161",
+    "storage_bucket": "fir-auth-e6161.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990763336957:android:bbab295079d95370ad2a94",
+        "android_client_info": {
+          "package_name": "com.example.login_logout_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "990763336957-on6b3h81qbr8tm1h39u91cga4q054k96.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLkflqM7n4Y5jx6gpzvStIar2BJKLZyfU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "990763336957-on6b3h81qbr8tm1h39u91cga4q054k96.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
